@@ -19,14 +19,14 @@ This project uses the Apriori algorithm to analyze YouTube video characteristics
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/cristiandelahooz/descriptivo-lisibony.git
+   git clone https://github.com/cristiandelahooz/descriptivo-apriori.git
    ```
 ````
 
 2. Navigate to the project directory:
 
    ```bash
-   cd descriptivo-lisibony
+   cd descriptivo-apriori
    ```
 
 3. Install the required dependencies:
