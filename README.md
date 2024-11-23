@@ -77,5 +77,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-You can use this structure to create your interactive README. You can further customize it with additional icons and badges relevant to your project.
