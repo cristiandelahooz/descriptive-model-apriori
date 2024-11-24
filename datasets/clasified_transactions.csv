@@ -1,0 +1,36 @@
+duracion_segundos,mayor_5_min,promedio_tiempo_reproducido,tiene_tags,categoria,impresiones,tasa_de_clicks,vistas,popularidad,duracion_segundosclassified,promedio_tiempo_reproducidoclassified,impresionesclassified,tasa_de_clicksclassified,vistasclassified
+200,False,47,True,Trivia Facts Quiz,268415,1.89,6961,True,Mediano,Mediano,Alto,Bajo,Alto
+320,True,132,False,Entertainment Quiz,66361,3.95,3246,True,Alto,Alto,Alto,Mediano,Alto
+263,False,44,True,Trivia Facts Quiz,32280,5.95,2252,True,Mediano,Mediano,Alto,Alto,Alto
+264,False,105,True,Entertainment Quiz,32272,3.74,1516,True,Mediano,Alto,Alto,Mediano,Alto
+461,True,144,True,Would You Rather,16064,2.42,639,False,Alto,Alto,Alto,Mediano,Alto
+52,False,23,True,Would You Rather,550,3.27,597,False,Mediano,Mediano,Mediano,Mediano,Alto
+40,False,20,True,Would You Rather,289,5.19,560,True,Bajo,Mediano,Bajo,Alto,Alto
+323,True,76,True,Holidays,11458,4.38,559,True,Alto,Mediano,Alto,Alto,Alto
+42,False,20,False,Animals Quiz,235,1.7,501,False,Bajo,Mediano,Bajo,Bajo,Alto
+57,False,17,True,Would You Rather,611,4.26,472,False,Mediano,Bajo,Mediano,Mediano,Mediano
+52,False,23,True,Would You Rather,487,4.31,469,True,Mediano,Mediano,Bajo,Alto,Mediano
+41,False,20,True,Sports Quiz,471,3.18,460,True,Bajo,Mediano,Bajo,Mediano,Mediano
+40,False,16,True,Sports Quiz,457,2.84,446,True,Bajo,Bajo,Bajo,Mediano,Mediano
+48,False,16,False,Sports Quiz,537,2.23,423,False,Bajo,Bajo,Mediano,Bajo,Mediano
+407,True,109,True,Would You Rather,10523,3.05,394,False,Alto,Alto,Alto,Mediano,Mediano
+399,True,79,True,Would You Rather,5373,2.61,278,False,Alto,Mediano,Mediano,Mediano,Mediano
+36,False,19,False,Entertainment Quiz,447,3.8,270,False,Bajo,Bajo,Bajo,Mediano,Mediano
+443,True,136,True,Would You Rather,11094,1.66,251,False,Alto,Alto,Alto,Bajo,Mediano
+302,True,101,True,Nature Quiz,4541,3.19,235,False,Alto,Alto,Mediano,Mediano,Mediano
+265,False,105,True,Nature Quiz,2707,3.99,212,False,Mediano,Alto,Mediano,Mediano,Mediano
+260,False,89,True,Trivia Facts Quiz,6190,1.62,163,False,Mediano,Alto,Alto,Bajo,Mediano
+305,True,60,True,Animals Quiz,4549,2.4,161,False,Alto,Mediano,Mediano,Mediano,Mediano
+207,False,58,True,Trivia Facts Quiz,2043,3.96,153,False,Mediano,Mediano,Mediano,Mediano,Mediano
+219,False,57,True,Animals Quiz,777,5.79,145,False,Mediano,Mediano,Mediano,Alto,Mediano
+198,False,52,True,Trivia Facts Quiz,1733,4.39,134,False,Mediano,Mediano,Mediano,Alto,Mediano
+206,False,27,True,Trivia Facts Quiz,1708,4.8,114,False,Mediano,Mediano,Mediano,Alto,Mediano
+216,False,40,True,Trivia Facts Quiz,986,6.29,101,False,Mediano,Mediano,Mediano,Alto,Bajo
+195,False,55,True,Trivia Facts Quiz,2422,2.39,100,False,Mediano,Mediano,Mediano,Bajo,Bajo
+442,True,104,True,Entertainment Quiz,3450,1.74,88,False,Alto,Alto,Mediano,Bajo,Bajo
+51,False,16,True,Would You Rather,540,2.41,83,False,Mediano,Bajo,Mediano,Mediano,Bajo
+245,False,72,True,Holidays,1184,4.14,72,False,Mediano,Mediano,Mediano,Mediano,Bajo
+36,False,19,True,Sports Quiz,673,2.53,63,False,Bajo,Bajo,Mediano,Mediano,Bajo
+29,False,20,True,Trivia Facts Quiz,366,6.01,54,False,Bajo,Mediano,Bajo,Alto,Bajo
+54,False,20,False,Trivia Facts Quiz,441,2.04,43,False,Mediano,Mediano,Bajo,Bajo,Bajo
+24,False,18,False,Trivia Facts Quiz,473,1.27,38,False,Bajo,Bajo,Bajo,Bajo,Bajo

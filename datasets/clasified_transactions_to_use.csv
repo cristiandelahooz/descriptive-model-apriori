@@ -1,0 +1,36 @@
+mayor_5_min,tiene_tags,categoria,popularidad,duracion_segundosclassified,promedio_tiempo_reproducidoclassified,impresionesclassified,tasa_de_clicksclassified,vistasclassified
+False,True,Trivia Facts Quiz,True,Mediano,Mediano,Alto,Bajo,Alto
+True,False,Entertainment Quiz,True,Alto,Alto,Alto,Mediano,Alto
+False,True,Trivia Facts Quiz,True,Mediano,Mediano,Alto,Alto,Alto
+False,True,Entertainment Quiz,True,Mediano,Alto,Alto,Mediano,Alto
+True,True,Would You Rather,False,Alto,Alto,Alto,Mediano,Alto
+False,True,Would You Rather,False,Mediano,Mediano,Mediano,Mediano,Alto
+False,True,Would You Rather,True,Bajo,Mediano,Bajo,Alto,Alto
+True,True,Holidays,True,Alto,Mediano,Alto,Alto,Alto
+False,False,Animals Quiz,False,Bajo,Mediano,Bajo,Bajo,Alto
+False,True,Would You Rather,False,Mediano,Bajo,Mediano,Mediano,Mediano
+False,True,Would You Rather,True,Mediano,Mediano,Bajo,Alto,Mediano
+False,True,Sports Quiz,True,Bajo,Mediano,Bajo,Mediano,Mediano
+False,True,Sports Quiz,True,Bajo,Bajo,Bajo,Mediano,Mediano
+False,False,Sports Quiz,False,Bajo,Bajo,Mediano,Bajo,Mediano
+True,True,Would You Rather,False,Alto,Alto,Alto,Mediano,Mediano
+True,True,Would You Rather,False,Alto,Mediano,Mediano,Mediano,Mediano
+False,False,Entertainment Quiz,False,Bajo,Bajo,Bajo,Mediano,Mediano
+True,True,Would You Rather,False,Alto,Alto,Alto,Bajo,Mediano
+True,True,Nature Quiz,False,Alto,Alto,Mediano,Mediano,Mediano
+False,True,Nature Quiz,False,Mediano,Alto,Mediano,Mediano,Mediano
+False,True,Trivia Facts Quiz,False,Mediano,Alto,Alto,Bajo,Mediano
+True,True,Animals Quiz,False,Alto,Mediano,Mediano,Mediano,Mediano
+False,True,Trivia Facts Quiz,False,Mediano,Mediano,Mediano,Mediano,Mediano
+False,True,Animals Quiz,False,Mediano,Mediano,Mediano,Alto,Mediano
+False,True,Trivia Facts Quiz,False,Mediano,Mediano,Mediano,Alto,Mediano
+False,True,Trivia Facts Quiz,False,Mediano,Mediano,Mediano,Alto,Mediano
+False,True,Trivia Facts Quiz,False,Mediano,Mediano,Mediano,Alto,Bajo
+False,True,Trivia Facts Quiz,False,Mediano,Mediano,Mediano,Bajo,Bajo
+True,True,Entertainment Quiz,False,Alto,Alto,Mediano,Bajo,Bajo
+False,True,Would You Rather,False,Mediano,Bajo,Mediano,Mediano,Bajo
+False,True,Holidays,False,Mediano,Mediano,Mediano,Mediano,Bajo
+False,True,Sports Quiz,False,Bajo,Bajo,Mediano,Mediano,Bajo
+False,True,Trivia Facts Quiz,False,Bajo,Mediano,Bajo,Alto,Bajo
+False,False,Trivia Facts Quiz,False,Mediano,Mediano,Bajo,Bajo,Bajo
+False,False,Trivia Facts Quiz,False,Bajo,Bajo,Bajo,Bajo,Bajo

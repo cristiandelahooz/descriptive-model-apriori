@@ -9,11 +9,13 @@
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/cristiandelahooz/descriptivo-apriori.git
    ```
 
 2. Navigate to the project directory:
+
    ```bash
    cd descriptivo-apriori
    ```
@@ -26,6 +28,7 @@
 ## Usage
 
 1. Open the Jupyter Notebook:
+
    ```bash
    jupyter notebook Apriori_YouTube_Optimization.ipynb
    ```
@@ -35,6 +38,7 @@
 ## Project Details
 
 This Jupyter Notebook project applies the Apriori algorithm to analyze YouTube video characteristics, identifying patterns that can help increase views and subscribers. The characteristics analyzed include:
+
 - Video titles
 - Tags
 - Descriptions
@@ -47,6 +51,7 @@ By understanding these patterns, content creators can optimize their videos to a
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or additional features.
 
 ## License
+
 ```markdown
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
