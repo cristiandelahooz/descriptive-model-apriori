@@ -30,7 +30,7 @@
 1. Open the Jupyter Notebook:
 
    ```bash
-   jupyter notebook Apriori_YouTube_Optimization.ipynb
+   jupyter notebook /notebooks/asociacion/apriori.ipynb
    ```
 
 2. Follow the instructions in the notebook to run the Apriori algorithm on your dataset.
