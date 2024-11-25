@@ -1,36 +1,22 @@
-duracion_segundos,mayor_5_min,promedio_tiempo_reproducido,tiene_tags,categoria,impresiones,tasa_de_clicks,vistas,popularidad
-200,FALSE,47,TRUE,Trivia Facts Quiz,268415,1.89,6961,TRUE
-320,TRUE,132,FALSE,Entertainment Quiz,66361,3.95,3246,TRUE
-263,FALSE,44,TRUE,Trivia Facts Quiz,32280,5.95,2252,TRUE
-264,FALSE,105,TRUE,Entertainment Quiz,32272,3.74,1516,TRUE
-461,TRUE,144,TRUE,Would You Rather,16064,2.42,639,FALSE
-52,FALSE,23,TRUE,Would You Rather,550,3.27,597,FALSE
-40,FALSE,20,TRUE,Would You Rather,289,5.19,560,TRUE
-323,TRUE,76,TRUE,Holidays,11458,4.38,559,TRUE
-42,FALSE,20,FALSE,Animals Quiz,235,1.7,501,FALSE
-57,FALSE,17,TRUE,Would You Rather,611,4.26,472,FALSE
-52,FALSE,23,TRUE,Would You Rather,487,4.31,469,TRUE
-41,FALSE,20,TRUE,Sports Quiz,471,3.18,460,TRUE
-40,FALSE,16,TRUE,Sports Quiz,457,2.84,446,TRUE
-48,FALSE,16,FALSE,Sports Quiz,537,2.23,423,FALSE
-407,TRUE,109,TRUE,Would You Rather,10523,3.05,394,FALSE
-399,TRUE,79,TRUE,Would You Rather,5373,2.61,278,FALSE
-36,FALSE,19,FALSE,Entertainment Quiz,447,3.8,270,FALSE
-443,TRUE,136,TRUE,Would You Rather,11094,1.66,251,FALSE
-302,TRUE,101,TRUE,Nature Quiz,4541,3.19,235,FALSE
-265,FALSE,105,TRUE,Nature Quiz,2707,3.99,212,FALSE
-260,FALSE,89,TRUE,Trivia Facts Quiz,6190,1.62,163,FALSE
-305,TRUE,60,TRUE,Animals Quiz,4549,2.4,161,FALSE
-207,FALSE,58,TRUE,Trivia Facts Quiz,2043,3.96,153,FALSE
-219,FALSE,57,TRUE,Animals Quiz,777,5.79,145,FALSE
-198,FALSE,52,TRUE,Trivia Facts Quiz,1733,4.39,134,FALSE
-206,FALSE,27,TRUE,Trivia Facts Quiz,1708,4.8,114,FALSE
-216,FALSE,40,TRUE,Trivia Facts Quiz,986,6.29,101,FALSE
-195,FALSE,55,TRUE,Trivia Facts Quiz,2422,2.39,100,FALSE
-442,TRUE,104,TRUE,Entertainment Quiz,3450,1.74,88,FALSE
-51,FALSE,16,TRUE,Would You Rather,540,2.41,83,FALSE
-245,FALSE,72,TRUE,Holidays,1184,4.14,72,FALSE
-36,FALSE,19,TRUE,Sports Quiz,673,2.53,63,FALSE
-29,FALSE,20,TRUE,Trivia Facts Quiz,366,6.01,54,FALSE
-54,FALSE,20,FALSE,Trivia Facts Quiz,441,2.04,43,FALSE
-24,FALSE,18,FALSE,Trivia Facts Quiz,473,1.27,38,FALSE
+items
+1,duracion_promedio_vistas bajas, Friday, vistas altas, tiempo_reproduccion_horas altas, suscriptores altos, impresiones altas, ctr bajo, Trivia Facts Quiz, General, Blue
+2,duracion_promedio_vistas altas, Thursday, vistas altas, tiempo_reproduccion_horas altas, suscriptores media, impresiones altas, ctr medio, Entertainment Quiz, General, Blue
+3,duracion_promedio_vistas bajas, Friday, vistas altas, tiempo_reproduccion_horas bajas, suscriptores media, impresiones altas, ctr alto, Trivia Facts Quiz, Children, Pink
+4,duracion_promedio_vistas medias, Thursday, vistas altas, tiempo_reproduccion_horas medias, suscriptores media, impresiones altas, ctr medio, Entertainment Quiz, General, Blue
+5,duracion_promedio_vistas altas, Friday, vistas altas, tiempo_reproduccion_horas bajas, suscriptores bajos, impresiones altas, ctr bajo, Would You Rather, General, Yellow
+6,duracion_promedio_vistas medias, Thursday, vistas altas, tiempo_reproduccion_horas bajas, suscriptores bajos, impresiones altas, ctr medio, Holidays, General, Purple
+7,duracion_promedio_vistas altas, Wednesday, vistas altas, tiempo_reproduccion_horas bajas, suscriptores bajos, impresiones altas, ctr bajo, Would You Rather, General, Purple
+8,duracion_promedio_vistas medias, Thursday, vistas medias, tiempo_reproduccion_horas bajas, suscriptores bajos, impresiones medias, ctr bajo, Would You Rather, Children, Purple
+9,duracion_promedio_vistas altas, Friday, vistas medias, tiempo_reproduccion_horas bajas, suscriptores bajos, impresiones altas, ctr bajo, Would You Rather, General, White
+10,duracion_promedio_vistas medias, Wednesday, vistas medias, tiempo_reproduccion_horas bajas, suscriptores bajos, impresiones medias, ctr medio, Nature Quiz, Children, Gray
+11,duracion_promedio_vistas medias, Thursday, vistas medias, tiempo_reproduccion_horas bajas, suscriptores bajos, impresiones bajas, ctr medio, Nature Quiz, Children, Blue
+12,duracion_promedio_vistas medias, Thursday, vistas medias, tiempo_reproduccion_horas bajas, suscriptores bajos, impresiones medias, ctr bajo, Trivia Facts Quiz, Children, Purple
+13,duracion_promedio_vistas bajas, Friday, vistas medias, tiempo_reproduccion_horas bajas, suscriptores bajos, impresiones medias, ctr bajo, Animals Quiz, Children, Blue
+14,duracion_promedio_vistas bajas, Wednesday, vistas medias, tiempo_reproduccion_horas bajas, suscriptores bajos, impresiones bajas, ctr medio, Trivia Facts Quiz, Children, Gray
+15,duracion_promedio_vistas bajas, Wednesday, vistas bajas, tiempo_reproduccion_horas bajas, suscriptores bajos, impresiones bajas, ctr alto, Animals Quiz, Children, Blue
+16,duracion_promedio_vistas bajas, Thursday, vistas bajas, tiempo_reproduccion_horas bajas, suscriptores bajos, impresiones bajas, ctr medio, Trivia Facts Quiz, General, Blue
+17,duracion_promedio_vistas bajas, Tuesday, vistas bajas, tiempo_reproduccion_horas bajas, suscriptores bajos, impresiones bajas, ctr alto, Trivia Facts Quiz, Children, Beige
+18,duracion_promedio_vistas bajas, Wednesday, vistas bajas, tiempo_reproduccion_horas bajas, suscriptores bajos, impresiones bajas, ctr alto, Trivia Facts Quiz, Children, Blue
+19,duracion_promedio_vistas bajas, Thursday, vistas bajas, tiempo_reproduccion_horas bajas, suscriptores bajos, impresiones bajas, ctr bajo, Trivia Facts Quiz, Children, Pink
+20,duracion_promedio_vistas medias, Thursday, vistas bajas, tiempo_reproduccion_horas bajas, suscriptores bajos, impresiones medias, ctr bajo, Entertainment Quiz, General, Blue
+21,duracion_promedio_vistas medias, Sunday, vistas bajas, tiempo_reproduccion_horas bajas, suscriptores bajos, impresiones bajas, ctr medio, Holidays, General, Indigo
