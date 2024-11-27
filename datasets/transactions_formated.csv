@@ -1,22 +1,22 @@
 ,items
-1,duracion_promedio_vistas bajas,Friday,vistas altas,tiempo_reproduccion_horas altas,suscriptores altos,impresiones altas,ctr bajo,Trivia Facts Quiz,General,Blue
-2,duracion_promedio_vistas altas,Thursday,vistas altas,tiempo_reproduccion_horas altas,suscriptores media,impresiones altas,ctr medio,Entertainment Quiz,General,Blue
-3,duracion_promedio_vistas bajas,Friday,vistas altas,tiempo_reproduccion_horas bajas,suscriptores media,impresiones altas,ctr alto,Trivia Facts Quiz,Children,Pink
-4,duracion_promedio_vistas medias,Thursday,vistas altas,tiempo_reproduccion_horas medias,suscriptores media,impresiones altas,ctr medio,Entertainment Quiz,General,Blue
-5,duracion_promedio_vistas altas,Friday,vistas altas,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones altas,ctr bajo,Would You Rather,General,Yellow
-6,duracion_promedio_vistas medias,Thursday,vistas altas,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones altas,ctr medio,Holidays,General,Purple
-7,duracion_promedio_vistas altas,Wednesday,vistas altas,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones altas,ctr bajo,Would You Rather,General,Purple
-8,duracion_promedio_vistas medias,Thursday,vistas medias,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones medias,ctr bajo,Would You Rather,Children,Purple
-9,duracion_promedio_vistas altas,Friday,vistas medias,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones altas,ctr bajo,Would You Rather,General,White
-10,duracion_promedio_vistas medias,Wednesday,vistas medias,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones medias,ctr medio,Nature Quiz,Children,Gray
-11,duracion_promedio_vistas medias,Thursday,vistas medias,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones bajas,ctr medio,Nature Quiz,Children,Blue
-12,duracion_promedio_vistas medias,Thursday,vistas medias,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones medias,ctr bajo,Trivia Facts Quiz,Children,Purple
-13,duracion_promedio_vistas bajas,Friday,vistas medias,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones medias,ctr bajo,Animals Quiz,Children,Blue
-14,duracion_promedio_vistas bajas,Wednesday,vistas medias,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones bajas,ctr medio,Trivia Facts Quiz,Children,Gray
-15,duracion_promedio_vistas bajas,Wednesday,vistas bajas,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones bajas,ctr alto,Animals Quiz,Children,Blue
-16,duracion_promedio_vistas bajas,Thursday,vistas bajas,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones bajas,ctr medio,Trivia Facts Quiz,General,Blue
-17,duracion_promedio_vistas bajas,Tuesday,vistas bajas,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones bajas,ctr alto,Trivia Facts Quiz,Children,Beige
-18,duracion_promedio_vistas bajas,Wednesday,vistas bajas,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones bajas,ctr alto,Trivia Facts Quiz,Children,Blue
-19,duracion_promedio_vistas bajas,Thursday,vistas bajas,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones bajas,ctr bajo,Trivia Facts Quiz,Children,Pink
-20,duracion_promedio_vistas medias,Thursday,vistas bajas,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones medias,ctr bajo,Entertainment Quiz,General,Blue
-21,duracion_promedio_vistas medias,Sunday,vistas bajas,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones bajas,ctr medio,Holidays,General,Indigo
+1,duracion_promedio_vistas bajas,Friday,vistas altas,tiempo_reproduccion_horas altas,suscriptores altos,impresiones altas,ctr bajo,Trivia Facts Quiz,General,cantidad de tags baja,Blue,sugerido,Es popular
+2,duracion_promedio_vistas altas,Thursday,vistas altas,tiempo_reproduccion_horas altas,suscriptores media,impresiones altas,ctr medio,Entertainment Quiz,General,cantidad de tags baja,Dark Blue,sugerido,Es popular
+3,duracion_promedio_vistas bajas,Friday,vistas altas,tiempo_reproduccion_horas bajas,suscriptores media,impresiones altas,ctr alto,Trivia Facts Quiz,Children,cantidad de tags baja,Red,sugerido,Es popular
+4,duracion_promedio_vistas medias,Thursday,vistas altas,tiempo_reproduccion_horas medias,suscriptores media,impresiones altas,ctr medio,Entertainment Quiz,General,cantidad de tags baja,Dark Blue,sugerido,Es popular
+5,duracion_promedio_vistas altas,Friday,vistas altas,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones altas,ctr bajo,Would You Rather,General,cantidad de tags baja,Yellow,sugerido,No es popular
+6,duracion_promedio_vistas medias,Thursday,vistas altas,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones altas,ctr medio,Holidays,General,cantidad de tags alta,Purple,sugerido,Es popular
+7,duracion_promedio_vistas altas,Wednesday,vistas altas,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones altas,ctr bajo,Would You Rather,General,cantidad de tags baja,Purple,sugerido,No es popular
+8,duracion_promedio_vistas medias,Thursday,vistas medias,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones medias,ctr bajo,Would You Rather,Children,cantidad de tags baja,Purple,sugerido,No es popular
+9,duracion_promedio_vistas altas,Friday,vistas medias,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones altas,ctr bajo,Would You Rather,General,cantidad de tags baja,Blue,sugerido,No es popular
+10,duracion_promedio_vistas medias,Wednesday,vistas medias,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones medias,ctr medio,Nature Quiz,Children,cantidad de tags alta,Blue,sugerido,No es popular
+11,duracion_promedio_vistas medias,Thursday,vistas medias,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones bajas,ctr medio,Nature Quiz,Children,cantidad de tags alta,Blue,sugerido,No es popular
+12,duracion_promedio_vistas medias,Thursday,vistas medias,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones medias,ctr bajo,Trivia Facts Quiz,Children,cantidad de tags baja,Dark Blue,sugerido,No es popular
+13,duracion_promedio_vistas bajas,Friday,vistas medias,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones medias,ctr bajo,Animals Quiz,Children,cantidad de tags baja,Blue,sugerido,No es popular
+14,duracion_promedio_vistas bajas,Wednesday,vistas medias,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones bajas,ctr medio,Trivia Facts Quiz,Children,cantidad de tags baja,Blue,no sugerido,No es popular
+15,duracion_promedio_vistas bajas,Wednesday,vistas bajas,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones bajas,ctr alto,Animals Quiz,Children,cantidad de tags baja,Blue,no sugerido,No es popular
+16,duracion_promedio_vistas bajas,Thursday,vistas bajas,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones bajas,ctr medio,Trivia Facts Quiz,General,cantidad de tags media,Blue,no sugerido,No es popular
+17,duracion_promedio_vistas bajas,Tuesday,vistas bajas,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones bajas,ctr alto,Trivia Facts Quiz,Children,cantidad de tags baja,Orange,no sugerido,No es popular
+18,duracion_promedio_vistas bajas,Wednesday,vistas bajas,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones bajas,ctr alto,Trivia Facts Quiz,Children,cantidad de tags baja,Dark Blue,no sugerido,No es popular
+19,duracion_promedio_vistas bajas,Thursday,vistas bajas,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones bajas,ctr bajo,Trivia Facts Quiz,Children,cantidad de tags baja,Blue,no sugerido,No es popular
+20,duracion_promedio_vistas medias,Thursday,vistas bajas,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones medias,ctr bajo,Entertainment Quiz,General,cantidad de tags baja,Red,sugerido,No es popular
+21,duracion_promedio_vistas medias,Sunday,vistas bajas,tiempo_reproduccion_horas bajas,suscriptores bajos,impresiones bajas,ctr medio,Holidays,General,cantidad de tags baja,Purple,no sugerido,No es popular
